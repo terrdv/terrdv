@@ -11,7 +11,7 @@ Hi I'm Terrence David a Computer Science student at the University of British Co
 
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,postgres,mysql" />
 </p>
 
 
