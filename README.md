@@ -5,8 +5,6 @@ I’m a Computer Science student at the University of British Columbia intereste
 
 ---
 
-# Technologies
-
 ##  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
@@ -25,19 +23,6 @@ I’m a Computer Science student at the University of British Columbia intereste
   <img src="https://skillicons.dev/icons?i=docker,aws,redis" />
 </p>
 
-
----
-
-
-# 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
