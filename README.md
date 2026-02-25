@@ -5,95 +5,29 @@ I’m a Computer Science student at the University of British Columbia intereste
 
 ---
 
-# 🧠 Tech Stack
+# Technologies
 
-## 🎨 Frontend
+##  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-- React / Next.js  
-- TypeScript  
-- Tailwind CSS  
-- Interactive graph visualization (React Flow)  
-
 ---
 
-## ⚙️ Backend
+## Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres" />
 </p>
 
-- FastAPI  
-- Python  
-- PostgreSQL  
-- REST APIs  
-- JWT authentication  
-- GitHub OAuth integrations  
 
----
-
-## 🤖 AI / ML
+## Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,redis" />
 </p>
 
-- Retrieval-Augmented Generation (RAG)
-- LangChain  
-- LLM orchestration  
-- Embeddings + vector search (pgvector)  
-- Gemini API integrations  
 
 ---
 
-## 🏗 Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,redis" />
-</p>
-
-- Docker containerization  
-- Redis caching  
-- AWS (RDS, S3)  
-- GCP / Vertex AI  
-- Environment-based configuration systems  
-
----
-
-## 🚀 DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
-</p>
-
-- Git / GitHub  
-- CI/CD workflows  
-- Linux environments  
-- Container-based local development  
-
----
-
-# 🚀 Featured Projects
-
-### 🧩 GitGraph
-AI-powered GitHub repository visualization tool that transforms codebases into interactive dependency graphs with LLM-generated explanations.
-
-- GitHub OAuth authentication
-- FastAPI backend
-- Next.js frontend
-- RAG-based summarization
-- Dockerized deployment
-
----
-
-### 🎙️ Whisk
-Real-time AI language learning platform integrating voice agents with LLM-powered vocabulary extraction.
-
-- YouTube transcript parsing
-- JLPT vocabulary extraction
-- Gemini API integration
-- Real-time voice pipelines
-- Next.js + FastAPI architecture
-
----
 
 # 📊 GitHub Stats
 
@@ -107,21 +41,4 @@ Real-time AI language learning platform integrating voice agents with LLM-powere
 
 ---
 
-# 🧩 Currently Exploring
 
-- Advanced system design
-- Distributed AI systems
-- Production caching strategies
-- Agentic AI architectures
-- Infrastructure optimization
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://yourwebsite.com
-
----
-
-⭐ Always building. Always iterating.
