@@ -11,13 +11,13 @@ I'm Terrence David a Computer Science student at the University of British Colum
 
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,nodejs,postgres,mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,flask,nodejs,postgres,mysql,sqlite,mongodb,redis" />
 </p>
 
 
 ## Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,redis,gcp" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
 </p>
 
 
