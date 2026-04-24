@@ -1,5 +1,4 @@
-I'm Terrence David a Computer Science student at the University of British Columbia interested in full-stack development and ML.
-
+I'm Terrence a Computer Science student at UBC interested in full-stack and ML
 ---
 
 ##  Frontend
