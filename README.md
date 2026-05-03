@@ -4,7 +4,7 @@ I'm Terrence a Computer Science student at UBC interested in full-stack and ML
 
 ##  Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 </p>
 
 ---
